@@ -1,0 +1,16 @@
+pandas
+geopandas
+fiona
+numpy
+scipy
+matplotlib
+cartopy
+seaborn
+xarray
+rioxarray
+rasterio
+shapely
+jupyterlab
+ipython
+gdal
+
